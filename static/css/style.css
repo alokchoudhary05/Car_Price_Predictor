@@ -1,0 +1,26 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image-section{
+	background-image: url("D:\\car_price_predictor\\car1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.mt-50{
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
+
+footer {
+    background-color: #150a43;
+    margin-top: 200px;
+    height: 90px;
+    color: white;
+    text-align: center;
+}
